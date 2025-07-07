@@ -1,0 +1,17 @@
+# .streamlit/config.toml
+
+[theme]
+# The color of widgets and links
+primaryColor="#00A9FF"
+
+# The main background color
+backgroundColor="#0A0A0A"
+
+# The background color of sidebars and some containers
+secondaryBackgroundColor="#1E1E1E"
+
+# The text color
+textColor="#FAFAFA"
+
+# The font to use
+font="sans serif"

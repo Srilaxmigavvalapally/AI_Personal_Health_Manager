@@ -1,0 +1,20 @@
+cookie:
+  expiry_days: 30
+  key: '!1@2#3$4%5^6&7*8(9)0_+qwertyuiopasdfghjklzxcvbnm'
+  name: health_manager_cookie
+credentials:
+  usernames:
+    srilaxmi_05:
+      email: srilaxmigavvalapally@gmail.com
+      first_name: Srilaxmi
+      last_name: Gavvalapally
+      logged_in: false
+      password: $2b$12$hM2BLOdSDlHPJY5XXcH6z.2rYbsyKR0zpVpUtmzlSJegcLttBaOkC
+      password_hint: name
+      roles: null
+    testuser:
+      email: test@example.com
+      name: Test User
+      password: $2b$12$fMLZIdo9qKUnNbyki4oOOOQyqwr2O.DWK/Fws0z0qoBLjMgkKYcwS
+preauthorized:
+  emails: []
